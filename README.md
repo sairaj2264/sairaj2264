@@ -1,7 +1,5 @@
 # 💫 About Me:
-🖥️ React & Express Developer | 📦 Firebase & PostgreSQL<br>🥇 3× National Hackathon Winner | 🎯 Top Coder in College<br>📘 DSA Specialist |  !! Lifelong Tech Learner !!<br><br>
-
-
+🖥️ React & Express Developer | 📦 Firebase & PostgreSQL<br>🥇 3× National Hackathon Winner | 🎯 Top Coder in College<br>📘 DSA Specialist |  !! Lifelong Tech Learner !!<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-raj-vadeghar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sairaj.vadeghar@gmail.com) 
 
