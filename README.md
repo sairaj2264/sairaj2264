@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ React & Express Developer | 📦 Firebase & PostgreSQL<br>🥇 3× National Hackathon Winner | 🎯 Top Coder in College<br>📘 DSA Specialist |  !! Lifelong Tech Learner !!<br><br>Passionate full-stack developer with a knack for building efficient, scalable web apps. I love solving problems, exploring new technologies, and turning ideas into real-world solutions.
+🖥️ React & Express Developer | 📦 Firebase & PostgreSQL<br>🥇 3× National Hackathon Winner | 🎯 Top Coder in College<br>📘 DSA Specialist |  !! Lifelong Tech Learner !!<br><br>
 
 
 ## 🌐 Socials:
